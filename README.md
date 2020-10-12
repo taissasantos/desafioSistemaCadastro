@@ -11,7 +11,7 @@ Utilização de melhores práticas e frameworks disponíveis para implementaçã
 
 ## Repositorio
 
-https://github.com/dmarsili/pitang-api
+https://github.com/taissasantos/desafioSistemaCadastro.git
 
 ## Install
 
@@ -64,24 +64,6 @@ Não foram implementadas autenticações.
 
 
 
-## EndPoints
 
-createUser -> [POST] http://ec2-3-16-43-135.us-east-2.compute.amazonaws.com:8080/api/users
-
-login -> [POST] http://ec2-3-16-43-135.us-east-2.compute.amazonaws.com:8080/api/signin
-
-createCar -> [POST] http://ec2-3-16-43-135.us-east-2.compute.amazonaws.com:8080/api/cars
-
-getUsers -> [GET] http://ec2-3-16-43-135.us-east-2.compute.amazonaws.com:8080/api/users
-
-getUserById -> [GET] http://ec2-3-16-43-135.us-east-2.compute.amazonaws.com:8080/api/users/1
-
-getCars -> [GET] http://ec2-3-16-43-135.us-east-2.compute.amazonaws.com:8080/api/cars
-
-getCar -> [GET] http://ec2-3-16-43-135.us-east-2.compute.amazonaws.com:8080/api/users/1
-
-updateUser -> [PUT] http://ec2-3-16-43-135.us-east-2.compute.amazonaws.com:8080/api/users/1
-
-deleteUser -> [DELETE] http://ec2-3-16-43-135.us-east-2.compute.amazonaws.com:8080/api/users/1
 
 
